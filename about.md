@@ -4,14 +4,14 @@ layout: default
 ---
 ## About me
 
-Replace this with a short paragraph about your background, education, and interests.
+My Research Interests involve Process Systems Engineering and Catalysis and Reaction Engineering
 
 ### Education
-- B.Tech / B.E. in Chemical Engineering — University name (expected YYYY)
+- B.E. in Chemical Engineering — BITS Pilani, KK Birla Goa Campus (Oct'22 - Mar'26)
 
 ### Skills
-- Python, MATLAB, JuMP, Pyomo, Git
-- CFD, process modelling, optimization
+- Python, MATLAB, Julia, COMSOL, Aspen
+- CFD, Process Modelling, Optimization
 
 ### Contact
-Email: you@example.com
+Email: drona.agwl2003@gmail.com
